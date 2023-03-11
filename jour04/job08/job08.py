@@ -15,5 +15,6 @@ sum = 0
 for i in range(list_length):
     sum=sum+L2[i]
 
-print ("La liste des nombres pairs est : " +str(L2))
+print ("La liste des valeurs paires est : " +str(L2))
 print ("La somme de cette liste est : " +str(sum))
+

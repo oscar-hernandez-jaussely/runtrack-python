@@ -1,7 +1,7 @@
 
 L = [1, 2, 3, 4, 5]
 
-print (L[1])
+print ("L[1] = " +str(L[1]))
 
 def f1():
 
@@ -9,5 +9,5 @@ def f1():
 
 f1()
 
-print (L[-1])
+print ("L[-1] = " +str(L[-1]))
 

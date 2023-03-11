@@ -1,6 +1,6 @@
 
 message = input("Enter a message : ")
-cle=1
+cle=3
 
 acrypter=message.upper()
 lg=len(acrypter)
